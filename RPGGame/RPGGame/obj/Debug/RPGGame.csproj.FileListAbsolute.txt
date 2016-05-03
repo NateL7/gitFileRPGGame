@@ -1,0 +1,12 @@
+C:\Users\Nate\Desktop\RPGGame\RPGGame\bin\Debug\RPGGame.exe.config
+C:\Users\Nate\Desktop\RPGGame\RPGGame\bin\Debug\RPGGame.exe
+C:\Users\Nate\Desktop\RPGGame\RPGGame\bin\Debug\RPGGame.pdb
+C:\Users\Nate\Desktop\RPGGame\RPGGame\obj\Debug\RPGGame.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Desktop\RPGGame\RPGGame\obj\Debug\RPGGame.Form1.resources
+C:\Users\Nate\Desktop\RPGGame\RPGGame\obj\Debug\RPGGame.Properties.Resources.resources
+C:\Users\Nate\Desktop\RPGGame\RPGGame\obj\Debug\RPGGame.csproj.GenerateResource.Cache
+C:\Users\Nate\Desktop\RPGGame\RPGGame\obj\Debug\RPGGame.exe
+C:\Users\Nate\Desktop\RPGGame\RPGGame\obj\Debug\RPGGame.pdb
+C:\Users\Nate\Desktop\RPGGame\RPGGame\RPGGame\bin\Debug\RPGGame.exe.config
+C:\Users\Nate\Desktop\RPGGame\RPGGame\RPGGame\obj\Debug\RPGGame.exe
+C:\Users\Nate\Desktop\RPGGame\RPGGame\RPGGame\obj\Debug\RPGGame.pdb
